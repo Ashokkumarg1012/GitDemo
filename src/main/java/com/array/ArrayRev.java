@@ -11,7 +11,7 @@ public class ArrayRev {
             System.out.print(result[i]+ " ");
 
         }
-// abcd
+// a
  //       System.out.println(Arrays.toString(result));
     }
 
