@@ -8,7 +8,6 @@ public class Duplicate {
         int[] arr = new int[]{1, 2, 3,3, 5,5,1};
 
 //        for(int c:arr){
-//            System.out.print(c);
 
 
          ArrayList<Integer> a = new ArrayList<>();
