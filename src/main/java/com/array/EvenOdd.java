@@ -6,5 +6,7 @@ public class EvenOdd {
 	
 	//EvenOdd by GitDemo user
 	//EvenOdd update By GitDemo
+	//test merge conflict from GitDemo
+	
 	
 }
